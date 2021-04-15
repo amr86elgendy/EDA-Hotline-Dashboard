@@ -1,0 +1,13 @@
+.gray {
+  background-color: #f6f6f6;
+}
+
+.gold {
+  color: gold;
+}
+
+.container-pagination {
+  height: calc(100vh - 60px);
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+}
